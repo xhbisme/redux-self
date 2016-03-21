@@ -1,0 +1,6 @@
+export const DOUBLE_CLICK = 'DOUBLE_CLICK'
+export const CHANGE = 'CHANGE'
+export const BLUER = 'BLUER'
+export const REMOVE = 'REMOVE'
+export const CHECK = 'CHECK'
+export const FOUCUS_INPUT = 'FOUCUS_INPUT'
